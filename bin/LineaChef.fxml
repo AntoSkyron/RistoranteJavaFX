@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="372.0" prefWidth="416.0" style="-fx-background-color: #242133;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="LineaChefController">
+   <children>
+      <AnchorPane layoutX="-214.0" layoutY="-414.0" prefHeight="200.0" prefWidth="200.0" />
+      <Text fx:id="nome_chef" fill="WHITE" layoutX="93.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="230.03125">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Text>
+      <Text fx:id="settore" fill="WHITE" layoutX="144.0" layoutY="76.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="129.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="lista" layoutX="11.0" layoutY="85.0" prefHeight="277.0" prefWidth="389.0" />
+   </children>
+</AnchorPane>

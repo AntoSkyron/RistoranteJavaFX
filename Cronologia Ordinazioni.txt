@@ -1,0 +1,22 @@
+
+================================
+Tavolo:	n.1	Ora:	17:17:27
+Cervo scottato	1x
+Carpaccio	2x
+Capesante	1x
+Riso al Topinambur	1x
+Vitello	2x
+Animella	1x
+Albicocca alla vaniglia	2x
+Crema bruciata	1x
+Acqua Ferrarelle	2x
+Vino montalcino	2x
+================================
+Tavolo:	n.2	Ora:	17:39:06
+Musetto di maiale	1x
+Spaghettone	2x
+Trancio	1x
+Salciccia	1x
+Dessert al Cioccolato	1x
+Frutta ghiacciata	1x
+Acqua Ferrarelle	3x
